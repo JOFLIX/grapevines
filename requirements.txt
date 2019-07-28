@@ -18,7 +18,7 @@ coverage==4.5.3
 cryptography==2.7
 
 DateTime==4.2
-defer==1.0.6
+
 distro-info===0.18ubuntu0.18.04.1
 dominate==2.3.5
 Flask==1.1.2.dev0
