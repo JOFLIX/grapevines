@@ -1,16 +1,16 @@
-# News.io App
+# Highlights
 
 ![Hacker News API](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/iphone7-ipad-use-news-hero.jpg)
 
 
-#### 31-Aug-2018
+#### 29-JUL-2019
 
-#### By **Cherucole**
+#### By **Joflix Ooko**
 
 ## Description
 
-Unofficial News App through News API for [News API](https://newsapi.org/).
-The app is live here [News.io](https://news-io.herokuapp.com/).
+Unofficial news application through News API for [News API](https://newsapi.org/).
+The app is live here [News.io](https://grapeviness.herokuapp.com/).
 
 ## Getting Started
 
@@ -27,24 +27,25 @@ You will need to:
 
 Installation
 ========
-
+```
     $ git clone <repository_url>
-
+```
 
 Build & Deployment
 ========
 
 **NOTE:** You need to have fully cloned it to run it locally.
 
-
+```
     $ ./start.sh 
+```
 
     # it will launch the web page from local server and fetch 
     news using api provided
 
 ##Built With
 
-- Built with Python 3 (3.7)
+- Built with Python 3 (3.6.8)
 - Flask
 - Styled using Bootstrap
 - CSS
@@ -59,7 +60,7 @@ If you want to add any new features, or improve existing ones, feel free to send
 
 The MIT License (MIT)
 
-Copyright (c) 2018 Cherucole
+Copyright (c) 2019 Joflix
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
