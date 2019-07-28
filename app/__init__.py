@@ -1,10 +1,8 @@
 from flask import Flask
 from flask_bootstrap import Bootstrap
 from config import config_options
-# from newsapi import NewsApiClient
-# from newsapi.newsapi_client import NewsApiClient
 
-bootstrap = Bootstrap(app)
+bootstrap = Bootstrap()
 
 
 def create_app(config_name):
