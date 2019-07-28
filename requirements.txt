@@ -84,7 +84,7 @@ pyparsing==2.4.1.1
 PyPDF2==1.26.0
 pyperclip==1.7.0
 pyRFC3339==1.0
-PySocks==1.7.0
+PySocks==1.7.0git
 pytest==5.0.1
 python-apt==1.6.4
 python-dateutil==2.6.1
