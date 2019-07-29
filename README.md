@@ -10,7 +10,7 @@
 ## Description
 
 Unofficial news application through News API for [News API](https://newsapi.org/).
-The app is live here [News.io](https://grapeviness.herokuapp.com/).
+The app is live here [gapevinez](https://grapevinez.herokuapp.com/).
 
 ## Getting Started
 
