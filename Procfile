@@ -1,2 +1,2 @@
-web: gunicorn grapevinez.wsgi 
+web: gunicorn grapevinez: app
 
