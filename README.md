@@ -1,6 +1,6 @@
 # Highlights
 
-![Hacker News API](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/mac_apps/itunes/iphone7-ipad-use-news-hero.jpg)
+![Hacker News API](https://media.wsls.com/photo/2017/04/24/Whats%20News%20Today_1493062809311_9576980_ver1.0_1280_720.png)
 
 
 #### 29-JUL-2019
