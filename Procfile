@@ -1,1 +1,2 @@
-web: gunicorn gettingstarted.wsgi
+web: gunicorn grapevinez.wsgi --log-file-
+
