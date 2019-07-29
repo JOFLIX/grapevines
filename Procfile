@@ -1,2 +1,2 @@
-web: gunicorn grapevinez: app
+web: gunicorn manage: app
 
