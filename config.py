@@ -24,10 +24,10 @@ class ProdConfig(Config):
 
 class DevConfig(Config):
     '''
-    Development  configuration child class
+    Development  configuration of the child class
 
     Args:
-        Config: The parent configuration class with General configuration settings
+        Config: The parent configuration class with General configurations
     '''
 
     DEBUG = True
